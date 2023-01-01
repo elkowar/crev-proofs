@@ -1,0 +1,25 @@
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: 2023-01-01T19:04:58.304710560+01:00
+from:
+  id-type: crev
+  id: Zjqn3gFR1HjQcRtUJ-YJwA5_8qDKmLUWQDbvi4_Qgxo
+  url: https://github.com/elkowar/crev-proofs
+package:
+  source: https://crates.io
+  name: hotsauce
+  version: 0.1.0
+  revision: 5eddf125b71ac76c81861e47041bd9eba7856993
+  digest: Yiaf6EpjoxRbqEurf6FGO1PEyht6Cxv3DOTVoINbLYs
+review:
+  thoroughness: high
+  understanding: medium
+  rating: positive
+comment: |-
+  Seems like an obvious API implement for regex thingies, very well written.
+  Thin wrapper around regex-automata.
+----- SIGN CREV PROOF -----
+7uu3PG5IDK049jYL646n3y4tKN-S7n-M3gJ8ujJTErtkT9ba4RDpqANPp6L94GsWxPESrzSU9xJHSSJtnmyuDg
+----- END CREV PROOF -----
+
